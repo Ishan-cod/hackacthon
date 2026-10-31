@@ -1,0 +1,18 @@
+# Dependencies and generated builds
+node_modules/
+dist/
+dist-ssr/
+.vite/
+coverage/
+
+# Local environment configuration
+.env
+.env.*
+!.env.example
+*.local
+
+# Logs and editor/OS files
+*.log
+.DS_Store
+.vscode/
+.idea/
